@@ -1,0 +1,107 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+#text-navbar {
+  font-size: 20px;
+  color: white;
+}
+
+.primeiro-conteudo {
+  min-width: 100vh;
+  height: auto;
+  background-image: url(../../img/grandline-page.jpg);
+  padding-bottom: 88px;
+}
+
+.paragraph-container {
+  width: 100vh;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.paragraph {
+  color: white;
+  font-size: 50px;
+}
+
+.segundo-conteudo {
+  background-image: url(../../img/one-piece-manga.jpg);
+  display: grid;
+  padding-bottom: 2%;
+}
+
+.texto-container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 120px;
+  margin-top: 40px;
+}
+
+.paragraph-content {
+  border: 2px solid darkgray;
+  font-size: 50px;
+  padding-right: 110px;
+  padding-left: 110px;
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+}
+
+.texto-container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 120px;
+}
+
+.paragraph-content-2 {
+  border: 2px solid darkgray;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  padding-right: 80px;
+  padding-left: 80px;
+}
+
+.texto-container3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  padding-right: 80%;
+  margin-top: 100px;
+}
+
+.paragraph-content-3 {
+  border: 2px solid darkgray;
+  border-radius: 30px;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+}
+
+.container-footer {
+  min-width: 100vh;
+}
+
+.footer-rows {
+  padding-left: 60vh;
+}
+
+.paragraph-footer {
+  color: white;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=style-grandLine.css.map */

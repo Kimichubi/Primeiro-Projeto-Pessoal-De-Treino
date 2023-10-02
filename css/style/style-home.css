@@ -1,0 +1,78 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  color: white;
+  font-family: sans-serif;
+}
+
+#text-navbar {
+  font-size: 20px;
+  color: white;
+}
+
+.container-img {
+  background-image: url(../../img/one-piece-img1.jpg);
+  padding-bottom: 60vh;
+}
+
+.div-text-principal {
+  margin-top: 160px;
+}
+
+.paragraph-principal {
+  color: rgb(255, 255, 255);
+}
+
+.btn {
+  color: white;
+}
+
+.container-img-2 {
+  background-image: url(../../img/grandline.jpg);
+  margin-top: -160px;
+  padding-bottom: 60vh;
+}
+
+.paragraph-principal-2 {
+  color: rgb(255, 255, 255);
+}
+
+.div-text-principal-2 {
+  padding-left: 550px;
+  padding-top: 20px;
+}
+
+.container-img-3 {
+  background-image: url(../../img/3951.gif);
+  padding-bottom: 60vh;
+}
+
+.div-text-principal-3 {
+  padding-left: 550px;
+  padding-top: 20px;
+}
+
+.container-img-4 {
+  background-image: url(../../img/novas\ aventuras.jpg);
+  padding-bottom: 60vh;
+}
+
+.div-text-principal-4 {
+  padding-left: 550px;
+  padding-top: 20px;
+}
+
+.container-footer {
+  min-width: 100vh;
+}
+
+.footer-rows {
+  padding-left: 60vh;
+}
+
+.paragraph-footer {
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=style-home.css.map */
